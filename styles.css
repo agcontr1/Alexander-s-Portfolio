@@ -13,12 +13,12 @@ header{
     text-align:center;
     color: rgb(58, 49, 190);
     margin: 2px;
-    margin:
+   
 }
 
 h2{
     font-weight: 800;
-    align-content: center;
+    text-align: center;
 }
 
 .main {
@@ -30,7 +30,7 @@ h2{
 }
 
 
-}
+
 
 span{
         margin: 10px;
